@@ -17,7 +17,7 @@ A Pokedex é uma aplicação web simples que exibe informações sobre Pokémon,
 
 ## Como Usar
 
-1. Faça um clone deste repositório: `git clone https://github.com/seu-usuario/pokedex.git`
+1. Faça um clone deste repositório: `git clone https://github.com/AydomSantos/pokedex.git`
 2. Abra o arquivo `index.html` no seu navegador.
 
 ## Contribuição
