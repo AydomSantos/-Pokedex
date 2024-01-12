@@ -22,7 +22,7 @@ A Pokedex é uma aplicação web simples que exibe informações sobre Pokémon,
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/pokedex/issues) ou enviar um [pull request](https://github.com/seu-usuario/pokedex/pulls) para melhorar este projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/pokedex/issues) ou enviar um [pull request](https://github.com/AydomSantos/pokedex/pulls) para melhorar este projeto.
 
 ## Autor
 
